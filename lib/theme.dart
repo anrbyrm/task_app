@@ -7,7 +7,7 @@ class AppTheme {
     appBarTheme: const AppBarTheme(
       centerTitle: true,
     ),
-    unselectedWidgetColor: Colors.blue[600],
+    unselectedWidgetColor: Colors.blue[700],
     floatingActionButtonTheme: FloatingActionButtonThemeData(
       elevation: 2,
       foregroundColor: Colors.blue[700],
